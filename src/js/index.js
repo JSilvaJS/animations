@@ -32,3 +32,4 @@ $('.button-list').on('click', 'button', function(e){
 	var letter = event.target.innerHTML;
 	alert(letter);
 });
+
